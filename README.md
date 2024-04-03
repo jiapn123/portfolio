@@ -1,17 +1,6 @@
-<h1>Hi, I'm Alice! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
-
-<h2>👨‍💻 Data Analysis Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Starbucks analysis and visualization](https://github.com/joshmadakor1/Algorithms-Practice)
-
-📫 How to reach me: ...
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills:
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
@@ -38,7 +27,7 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Used **Matlab** to train over 100 machine learning models that estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
