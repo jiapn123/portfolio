@@ -1,5 +1,6 @@
 title: Pannan Jia
-logo: img/photo.png
-#description: text below image
-#show_downloads: true
+logo: assets/img/photo.png
+description: Pannan Jia Portfolio
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
