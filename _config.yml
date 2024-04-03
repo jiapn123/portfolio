@@ -1,5 +1,5 @@
 title: Pannan Jia
-logo: img/photo.png
+#logo: img/photo.png
 #description: text below image
-show_downloads: true
+#show_downloads: true
 theme: jekyll-theme-minimal
