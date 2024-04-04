@@ -1,22 +1,7 @@
-# Data Scientist
-
-#### Technical Skills:
-
-## Education
-- ubion
-  
-## Work Experience
-**UBASE**
-- Managed
-
 ## Projects
-### Starbucks store analysis and visualization
-[Strabucks]()
-[Senior Cooking] (https://github.com/jonggu12/yorehalre_project)
+- [Strabucks](https://github.com/jiapn123/Starbucks/tree/main?tab=readme-ov-file)
+- [Senior Cooking](https://github.com/jonggu12/yorehalre_project)
 
-Developed objective strategy 
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
