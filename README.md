@@ -1,6 +1,14 @@
+# Hi This is My Project experience
+
 ## Projects
+Data Analysis Projects
 - [Strabucks](https://github.com/jiapn123/Starbucks/tree/main?tab=readme-ov-file)
-- [Senior Cooking](https://github.com/jonggu12/yorehalre_project)
+- []
+
+LLM Projects 
+- [Travel Panda]()
+- [Zelda shrine guidebook Chatbot]
+- [Senior Healthcare](https://github.com/jonggu12/yorehalre_project)
 
 
 <!--
