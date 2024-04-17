@@ -1,15 +1,58 @@
 # Hi This is Pannan Jia (Alice)
 Welcome to my portfolio page. I worked on business operations in my 2 previous jobs. In the past 6 months, I have completed a data analytics training program at the UBION boot camp in Korea. I'm currently looking for a job in the BA and DA fields, I have listed my experienced projects below, any questions or further discussion please feel free to reach out via jiapn@naver.com: 
 
-## Projects
-Data Analysis Projects
-- [Strabucks](https://github.com/jiapn123/Starbucks/tree/main?tab=readme-ov-file)
-- []
+## 프로그래밍 교육
+- 빅데이터 활용한 디지털 마케팅 전문가 과정 / 2023.10 – 2024.03 / 유비온
+- Google Advanced Data Analytics Professional Certificate / In Porgress / Cousera 
 
-LLM Projects 
-- [Travel planer web service / ]()
-- [Zelda shrine guidebook Chatbot / 젤다 왕눈 사당 공략 챗봇](https://github.com/jiapn123/zelda-guide-gpt)
-- [Senior Healthcare app / Active Senior를 위한 종합 식단관리 “요레할래” 서비스 기획 및 구현](https://github.com/jonggu12/yorehalre_project)
+## 프로젝트 경험
+<table>
+  <tr>
+    <th>Column 1</th>
+    <th>Column 2</th>
+    <th>Column 3</th>
+    <th>Column 4</th>
+  </tr>
+  <tr>
+    <td rowspan="3">Merged</td>
+    <td>Row1-2</td>
+    <td>Row1-3</td>
+    <td>Row1-4</td>
+  </tr>
+  <tr>
+    <td>Row2-2</td>
+    <td>Row2-3</td>
+    <td>Row2-4</td>
+  </tr>
+  <tr>
+    <td>Row3-2</td>
+    <td>Row3-3</td>
+    <td>Row3-4</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Merged</td>
+    <td>Row4-2</td>
+    <td>Row4-3</td>
+    <td>Row4-4</td>
+  </tr>
+  <tr>
+    <td>Row5-2</td>
+    <td>Row5-3</td>
+    <td>Row5-4</td>
+  </tr>
+  <tr>
+    <td>Row6-2</td>
+    <td>Row6-3</td>
+    <td>Row6-4</td>
+  </tr>
+  <tr>
+    <td>Row7-2</td>
+    <td>Row7-3</td>
+    <td>Row7-4</td>
+  </tr>
+</table>
+
+
 
 
 <!--
