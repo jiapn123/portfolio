@@ -27,7 +27,7 @@ Welcome to my portfolio page. I worked on business operations in my 2 previous j
   <tr>
     <td> <a href="https://github.com/jiapn123/stock-price-prediction">RNN을 이용한 주가 예측</a></td>
     <td>RNN</td>
-    <td>그롤링: <a href="https://finance.naver.com/item/sise_day.nhn?code=005930">네이버 증권</a><br>오픈소스 데이터: <a href=http://kind.krx.co.kr/corpgeneral/corpList.do?method=download&searchType=13">KRX 상장법인목록</a></td>
+    <td>그롤링: <a href="https://finance.naver.com/item/sise_day.nhn?code=005930">네이버 증권</a><br>오픈소스 데이터: <a href="http://kind.krx.co.kr/corpgeneral/corpList.do?method=download&searchType=13">KRX 상장법인목록</a></td>
   </tr>
   <tr>
     <td rowspan="4">LLM 프로젝트</td>
