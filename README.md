@@ -8,50 +8,49 @@ Welcome to my portfolio page. I worked on business operations in my 2 previous j
 ## 프로젝트 경험
 <table>
   <tr>
-    <th>Column 1</th>
-    <th>Column 2</th>
-    <th>Column 3</th>
-    <th>Column 4</th>
+    <th>종류</th>
+    <th>프로젝트 명</th>
+    <th>활용 기술</th>
+    <th>데이터 수집 방법</th>
   </tr>
   <tr>
-    <td rowspan="3">Merged</td>
-    <td>Row1-2</td>
-    <td>Row1-3</td>
-    <td>Row1-4</td>
+    <td rowspan="3">데이터 분석&ML 프로젝트</td>
+    <td> <a href="https://github.com/jiapn123/Starbucks">스타벅스 매장 입지 결정 분석</td>
+    <td>Beautifulsoup, Pandas, Matplotlib</td>
+    <td>그롤링: <a href="https://www.starbucks.co.kr/">스타벅스 코리아</a><br>공공 데이터:서울 열린데이터광장</td>
   </tr>
   <tr>
-    <td>Row2-2</td>
-    <td>Row2-3</td>
-    <td>Row2-4</td>
+    <td> <a href="https://github.com/jiapn123/marketing-data-analysis">고객 행동 데이터을 사용한 회원 탈퇴 예측 </td>
+    <td>ML: LinearRegression</td>
+    <td>오픈소스 데이터</td>
   </tr>
   <tr>
-    <td>Row3-2</td>
-    <td>Row3-3</td>
-    <td>Row3-4</td>
+    <td> <a href="https://github.com/jiapn123/stock-price-prediction">RNN을 이용한 주가 예측</td>
+    <td>RNN</td>
+    <td>그롤링: <a href="https://finance.naver.com/item/sise_day.nhn?code=005930">네이버 증권<br>오픈소스 데이터: <a href=http://kind.krx.co.kr/corpgeneral/corpList.do?method=download&searchType=13">KRX 상장법인목록</td>
   </tr>
   <tr>
-    <td rowspan="4">Merged</td>
-    <td>Row4-2</td>
-    <td>Row4-3</td>
-    <td>Row4-4</td>
+    <td rowspan="4">LLM 프로젝트</td>
+    <td> <a href="https://github.com/jiapn123/TravelPanda">Travel Panda</td>
+    <td>OpenAI AssistantAPI, Streamlit </td>
+    <td>그롤링: <a href="https://hotels.naver.com/list?placeFileName=place%3ASeoul&adultCnt=2&includeTax=false&sortField=popularityKR&sortDirection=descending">네이버 여행상품(서울 호텔)<br>공공 데이터:서울 열린데이터광장</td>
   </tr>
   <tr>
-    <td>Row5-2</td>
-    <td>Row5-3</td>
-    <td>Row5-4</td>
+    <td> <a href="https://github.com/jiapn123/RAGSystem">Langchain RAG</td>
+    <td>"Langchain,Fast API"</td>
+    <td>그롤링: <a href="https://search.naver.com/search.naver?ssc=tab.blog.all&sm=tab_jum&query=%EC%84%9C%EC%9A%B8+%EC%97%AC%ED%96%89%EC%BD%94%EC%8A%A4">네이버 블로그<br>(검색어: 서울 여행코스)</td>
   </tr>
   <tr>
-    <td>Row6-2</td>
-    <td>Row6-3</td>
-    <td>Row6-4</td>
+    <td> <a href="https://github.com/jiapn123/zelda-guide-gpt">젤다 왕눈 사당 공략 챗봇</td>
+    <td>Langchain</td>
+    <td>그롤링: <a href="https://www.zeldadungeon.net/wiki/Category:Tears_of_the_Kingdom_Sky_Shrines">ZELDA DUNGEON</td>
   </tr>
   <tr>
-    <td>Row7-2</td>
-    <td>Row7-3</td>
-    <td>Row7-4</td>
+    <td> <a href="https://github.com/jonggu12/yorehalre_project">식단관리 서비스 “요레할래”</td>
+    <td>"Weaviate, Fine Tuning, YOLO, Recommendation System, gradio, Fast API, Flutter"</td>
+    <td>그롤링: <a href="https://10000recipe.com/">만개의레시피<br>오픈소스 데이터: <a href="https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=242">AIHub 건강관리를 위한 음식 이미지</td>
   </tr>
 </table>
-
 
 
 
