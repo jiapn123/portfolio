@@ -53,8 +53,8 @@ Welcome to my portfolio page. I worked on business operations in my 2 previous j
     <td>그롤링: <a href="https://10000recipe.com/">만개의레시피</a><br>오픈소스 데이터: AIHub 건강관리를 위한 음식 이미지</td>
   </tr>
   <tr>
-    <td> <a href="https://github.com/jiapn123/langgraph">Multi-agent 사용한 데이터 시각화 챗봇</a></td>
-    <td> MySQL, Langgraph</td>
+    <td> <a href="https://github.com/jiapn123/langgraph">Multi-agent를 이용한 데이터 시각화 챗봇</a></td>
+    <td> Langgraph</td>
     <td> Local Database: tysql</td>
   </tr>
 </table>
