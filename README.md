@@ -54,8 +54,8 @@ Welcome to my portfolio page. I worked on business operations in my 2 previous j
   </tr>
   <tr>
     <td> <a href="https://github.com/jiapn123/langgraph">Multi-agent 사용한 데이터 시각화 챗봇</a></td>
-    <td>MySQL, Langgraph</td>
-    <td>Local Database: tysql</td>
+    <td> MySQL, Langgraph</td>
+    <td> Local Database: tysql</td>
   </tr>
 </table>
 
