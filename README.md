@@ -28,12 +28,12 @@ Welcome to my portfolio page. I worked on business operations in my 2 previous j
   </tr>
   <tr>
     <td> <a href="https://github.com/jiapn123/stock-price-prediction">RNN을 이용한 주가 예측</a></td>
-    <td>RNN</td>
+    <td>RNN, Django</td>
     <td>그롤링: <a href="https://finance.naver.com/item/sise_day.nhn?code=005930">네이버 증권</a><br>오픈소스 데이터: <a href="http://kind.krx.co.kr/corpgeneral/corpList.do?method=download&searchType=13">KRX 상장법인목록</a></td>
   </tr>
   <tr>
     <td rowspan="4">LLM 프로젝트</td>
-    <td> <a href="https://github.com/jiapn123/TravelPanda">Travel Panda</a></td>
+    <td> <a href="https://github.com/jiapn123/TravelPanda">여행일정 추천 서비스 "Travel Panda"</a></td>
     <td>OpenAI AssistantAPI, Streamlit </td>
     <td>그롤링: <a href="https://hotels.naver.com/list?placeFileName=place%3ASeoul&adultCnt=2&includeTax=false&sortField=popularityKR&sortDirection=descending">네이버 여행상품(서울 호텔)</a><br> 공공 데이터:서울 열린데이터광장</td>
   </tr>
@@ -51,6 +51,11 @@ Welcome to my portfolio page. I worked on business operations in my 2 previous j
     <td> <a href="https://github.com/jonggu12/yorehalre_project">식단관리 서비스 “요레할래”</a></td>
     <td>Weaviate, Fine Tuning, YOLO, Recommendation System, gradio, Fast API, Flutter</td>
     <td>그롤링: <a href="https://10000recipe.com/">만개의레시피</a><br>오픈소스 데이터: AIHub 건강관리를 위한 음식 이미지</td>
+  </tr>
+  <tr>
+    <td> <a href="https://github.com/jiapn123/langgraph">Multi-agent 사용한 데이터 시각화 챗봇</a></td>
+    <td>MySQL, Langgraph</td>
+    <td>Local Database: tysql</td>
   </tr>
 </table>
 
