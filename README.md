@@ -1,7 +1,7 @@
 # Hi This is Pannan Jia (Alice)
 포트폴리오 방문 감사드립니다. 대학원 졸업 후 패션 및 여행 산업에서 비즈니스 운영 업무를 담당하였으며, 지난 6개월 동안 UBION 디지털 교육 센터에서 빅데이터를 활용한 디지털 마케팅 전문가 과정을 수료하였습니다. 현재 DA/DS 및 AI 분야 관련 업무를 구직 중이며, 아래에는 제 경험 프로젝트를 나열하였습니다. 궁금한 사항이나 추가 논의 사항이 있으시면 jiapn@naver.com으로 연락 부탁드립니다.
 
-Welcome to my portfolio page. I worked on business operations in my 2 previous jobs. In the past 6 months, I have completed a data analytics training program at the UBION boot camp in Korea. I'm currently looking for a job in the BA and DA fields, I have listed my experienced projects below, any questions or further discussion please feel free to reach out via jiapn@naver.com: 
+Welcome to my portfolio page. I worked on business operations in my 2 previous jobs. In the past 6 months, I have completed a data analytics training program at the UBION boot camp in Korea. I'm currently looking for a job in the BA and DA fields, I have listed my experienced projects below, any questions or further discussion please feel free to reach out via jiapn@naver.com
 
 ## 프로그래밍 교육
 - 빅데이터 활용한 디지털 마케팅 전문가 과정 / 2023.10 – 2024.03 / 유비온
